@@ -8507,4 +8507,4 @@
         .bindTooltip(t.first_name + ' ' + t.last_name, { permanent: !0 });
     });
 })();
-//# sourceMappingURL=app.72a8e4bb.js.map
+//# sourceMappingURL=app.99f6c2f4.js.map
